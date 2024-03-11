@@ -1,6 +1,9 @@
 # DalFs: a Userspace filesystem based on OpenDAL
 
-**Still a WIP!!! Could be buggy and risky, please use a VM to test.** Take your own risk.
+Could be buggy and risky, please use a VM to test. Take your own risk.
+
+Update:
+- **2024/03/11: Not continue anymore. Any further efforts are welcomed in [OpenDAL ofs](https://github.com/apache/opendal/tree/main/bin/ofs#opendal-file-system).**
 
 Currently, it can provide a Userspace filesystem backing by [OpenDAL](https://github.com/apache/incubator-opendal), thus supports the following backend as data sources:
 
